@@ -9,6 +9,14 @@ package ac.za.cput.gitwnb;
  *
  * @author CPUT
  */
-public class SimpleClass {
+public class SimpleClass 
+{
+    /*
+        printing hello world
+    */
     
+    public void printOutHelloWorld()
+    {
+        System.out.println("Hellow World");
+    }
 }
